@@ -1,0 +1,12 @@
+/Users/htolgasahin/Desktop/DigitalGarden/Personal/Atomic ideas/Refresh tasks for new year.md
+/Users/htolgasahin/Desktop/DigitalGarden/Personal/Atomic ideas/Driving traffic to your blog.md
+/Users/htolgasahin/Desktop/DigitalGarden/Personal/Atomic ideas/Kindle Reader Like Chrome Extension.md
+/Users/htolgasahin/Desktop/DigitalGarden/Work/Atomic Ideas/API Catalogue for SPA.md
+/Users/htolgasahin/Desktop/DigitalGarden/Work/Atomic Ideas/Feature toggle system.md
+{
+  _: [],
+  r: "/Users/htolgasahin/Desktop/DigitalGarden",
+  root: "/Users/htolgasahin/Desktop/DigitalGarden",
+  m: [ "atomic idea" ],
+  match: [ "atomic idea" ]
+} { skip: [ /\.git/ ] }
